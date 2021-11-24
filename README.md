@@ -1,6 +1,4 @@
----
-title: read things for free
----
+# read things for free
 
 Knowledge should be free. There's a lot more that can be said there by people
 more eloquent and politically developed than I, but there is also no need to.
